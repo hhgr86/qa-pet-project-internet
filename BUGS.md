@@ -2,7 +2,7 @@
 
 > Проект: тестирование https://the-internet.herokuapp.com/  
 > Дата: июнь 2026  
-> Тестировщик: [Твоё имя]
+> Тестировщик: Голубев Дмитрий
 
 ---
 
@@ -12,7 +12,7 @@
 |------|----------|
 | **Приоритет** | Medium |
 | **Серьёзность** | Minor |
-| **Окружение** | Windows 11 / Chrome 134 |
+| **Окружение** | Windows 10 / Chrome |
 | **URL** | https://the-internet.herokuapp.com/inputs |
 | **Статус** | Open |
 
@@ -28,7 +28,7 @@
 В поле появляется буква `e`
 
 ### Скриншот
-![BUG-001](./screenshots/bug-001.png)
+![BUG-001](./screenshots/1.png)
 
 ---
 
@@ -38,7 +38,7 @@
 |------|----------|
 | **Приоритет** | Medium |
 | **Серьёзность** | Minor |
-| **Окружение** | Windows 11 / Chrome 134 |
+| **Окружение** | Windows 10 / Chrome |
 | **URL** | https://the-internet.herokuapp.com/checkboxes |
 | **Статус** | Open |
 
@@ -54,7 +54,7 @@
 Первый чекбокс становится неотмеченным
 
 ### Скриншот
-![BUG-002](./screenshots/bug-002.png)
+![BUG-002](./screenshots/2.png)
 
 ---
 
@@ -64,7 +64,7 @@
 |------|----------|
 | **Приоритет** | High |
 | **Серьёзность** | Major |
-| **Окружение** | Windows 11 / Chrome 134 |
+| **Окружение** | Windows 10 / Chrome |
 | **URL** | https://the-internet.herokuapp.com/checkboxes |
 | **Статус** | Open |
 
@@ -80,7 +80,7 @@
 Галочка возвращается, чекбокс снова отмечен
 
 ### Скриншот
-![BUG-003](./screenshots/bug-003.png)
+![BUG-003](./screenshots/3.png)
 
 ---
 
