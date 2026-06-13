@@ -34,3 +34,14 @@
 ```bash
 cd autotests/PETAUTOTESTS
 mvn test
+
+Ожидаемый результат
+Expected [false] but was [true]
+BUG-003: Второй чекбокс должен оставаться НЕотмеченным после перезагрузки!
+✅ Тест падает, потому что баг существует.
+
+Инструменты:
+Ручное тестирование
+Java 17 + Selenium + JUnit 5
+Maven
+GitHub
