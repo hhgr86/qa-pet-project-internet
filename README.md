@@ -26,3 +26,11 @@
 
 ## Как посмотреть
 Страница для тестирования: https://the-internet.herokuapp.com/
+## Автотест для BUG-003
+
+Автотест на Java + Selenium, который воспроизводит баг с возвращением галочки.
+
+### Запуск автотеста
+```bash
+cd autotests/PETAUTOTESTS
+mvn test
